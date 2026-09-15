@@ -10,5 +10,5 @@
 
     fclose($arquivo);
 
-    echo "Nome: $nome e nota 1: $nota1 nota 2: $nota2 nota 3: $nota3 cadastrados com sucesso!";
+    echo "$nome $nota1 $nota2 $nota3";
 ?>
